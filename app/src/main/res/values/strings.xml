@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fahrenheit To Celsius</string>
+    <string name="thermometer">Thermometer</string>
+    <string name="info">Fahrenheit and Celsius are the scales most often used for reporting room, weather, and water temperatures. The Fahrenheit scale is used in the United States, while the Celsius scale is used worldwide. So it\'s important for Americans to know how to convert one to the other, especially when traveling or doing scientific research.To convert the temperature from Fahrenheit to Celsius.Enter the temperature in the box below.</string>
+    <string name="input">Enter Temp in F</string>
+    <string name="submit">Submit</string>
+</resources>
