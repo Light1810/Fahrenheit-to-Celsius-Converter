@@ -15,6 +15,7 @@ Problems / Errors faced while making the applications
     
 =======================================================================================================
 NOTE:- xmlns:tools="http://schemas.android.com/tools"   (need to be added if not added automatically)
+
 ========================================================================================================
 
 
