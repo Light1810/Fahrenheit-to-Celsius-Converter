@@ -13,10 +13,10 @@ Problems / Errors faced while making the applications
 	
 		tools:ignore="autofill"   (might give typo warning in xml file)
     
-=======================================================================================================
+
 NOTE:- xmlns:tools="http://schemas.android.com/tools"   (need to be added if not added automatically)
 
-========================================================================================================
+
 
 
 
